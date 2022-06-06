@@ -43,6 +43,6 @@ If one does refactor, it is possible that initial alterations to the code could 
 
 ### Final Thoughts
 
-The return in DQ stock went from 200% in 2017 to -60% in 2018. This fluctuation in returns suggests that investing solely in DQ would place our clients in high financial risk. In addition, the daily trading volume for DQ is low, meaning it may be hard to liquidate even if the stock performs well (https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/average-daily-trading-volume-adtv/). However, it is advised that the clients not only invest in higher-performing stocks such as ENPH and RUN but also invest in less viable stocks, like DQ, in order to maintain a diverse portfolio that spreads out the risk of investment. 
+The return in DQ stock went from 200% in 2017 to -60% in 2018. This fluctuation in returns suggests that investing solely in DQ would place our clients in high financial risk. In addition, the daily trading volume for DQ is low, meaning it may be hard to liquidate even if the stock performs well              [(2)](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/average-daily-trading-volume-adtv/). However, it is advised that the clients not only invest in higher-performing stocks such as ENPH and RUN but also invest in less viable stocks, like DQ, in order to maintain a diverse portfolio that spreads out the risk of investment. 
 
 
