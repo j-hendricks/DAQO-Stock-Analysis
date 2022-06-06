@@ -8,7 +8,7 @@ Our clients required assistance analyzing the performance of green energy stocks
 
 ## Results
 
-As seen in the bar graphs, DQ stock experienced high returns in 2017 but low returns in 2018. As a result, it is uncertain how the stock will perform in following years. Moreover, the daily volume was relatively low in both years. Investor's Business Daily defines a stock with less than 400,000 shares per day as "thinly traded" (https://www.investors.com/how-to-invest/investors-corner/how-much-volume-should-a-stock-have/). Therefore, it is difficult to know the true value of the DQ stock, and the stock fails to show positive returns each year. Therefore, it is advised to avoid investing solely in DQ stock. A better investment would be in ENPH or RUN because these stocks had larger daily volumes than DQ and had positive returns for both 2017 and 2018. 
+As seen in the bar graphs, DQ stock experienced high returns in 2017 but low returns in 2018. As a result, it is uncertain how the stock will perform in following years. Moreover, the daily volume was relatively low in both years. Investor's Business Daily defines a stock with less than 400,000 shares per day as "thinly traded" [1](https://www.investors.com/how-to-invest/investors-corner/how-much-volume-should-a-stock-have/). Therefore, it is difficult to know the true value of the DQ stock, and the stock fails to show positive returns each year. Therefore, it is advised to avoid investing solely in DQ stock. A better investment would be in ENPH or RUN because these stocks had larger daily volumes than DQ and had positive returns for both 2017 and 2018. 
 
 ![stock-performance-2017](stock-performance-2017.png)
 ![stock-performance-2018](stock-performance-2018.png)
