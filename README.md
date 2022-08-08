@@ -4,7 +4,7 @@
 
 Our clients required assistance analyzing the performance of green energy stocks in 2017 and 2018. They had already decided to invest in DAQO New Energy Corp (DQ) and needed to know the quality of this stock specifically. Visual Basic Applications (VBA) was used to automate this task in Excel. However, the initial code showed inefficiencies due to the unnecessary use of a nested for-loop. When this code was refactored to a single for-loop, the code ran 5-6 times faster. As a result, the code can handle larger datasets without taking an impractical amount of time. 
 
-![VBA_Challenge](xlsm/green_stock_with_graph.xlsm)
+![VBA_Challenge](xlsm/green_stocks_with_graph.xlsm)
 
 ## Results
 
