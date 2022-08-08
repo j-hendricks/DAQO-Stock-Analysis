@@ -4,24 +4,24 @@
 
 Our clients required assistance analyzing the performance of green energy stocks in 2017 and 2018. They had already decided to invest in DAQO New Energy Corp (DQ) and needed to know the quality of this stock specifically. Visual Basic Applications (VBA) was used to automate this task in Excel. However, the initial code showed inefficiencies due to the unnecessary use of a nested for-loop. When this code was refactored to a single for-loop, the code ran 5-6 times faster. As a result, the code can handle larger datasets without taking an impractical amount of time. 
 
-![VBA_Challenge](VBA_Challenge.xlsm)
+![VBA_Challenge](xlsm/green_stock_with_graph.xlsm)
 
 ## Results
 
 As seen in the bar graphs, DQ stock experienced high returns in 2017 but low returns in 2018. As a result, it is uncertain how the stock will perform in following years. Moreover, the daily volume was relatively low in both years. Investor's Business Daily defines a stock with less than 400,000 shares per day as "thinly traded" [(1)](https://www.investors.com/how-to-invest/investors-corner/how-much-volume-should-a-stock-have/). Therefore, it is difficult to know the true value of the DQ stock, and the stock fails to show positive returns each year. Therefore, it is advised to avoid investing solely in DQ stock. A better investment would be in ENPH or RUN because these stocks had larger daily volumes than DQ and had positive returns for both 2017 and 2018. 
 
-![stock-performance-2017](stock-performance-2017.png)
-![stock-performance-2018](stock-performance-2018.png)
+![stock-performance-2017](images/stock-performance-2017.png)
+![stock-performance-2018](images/stock-performance-2018.png)
 
 Below are the resulting times of the initial code for the years 2017 and 2018 (from left to right). A time of 0.5-0.6 seconds may seem sufficiently fast. However, if the code were to perform the analysis on a larger dataset, then the code may run too slowly. This is especially true considering that the initial code implemented a nested for-loop, which has a time-complexity of O(n^2), meaning the time increases by the square of the size of the dataset. 
 
-![Nested-2017](Nested-2017.png)
-![Nested-2018](Nested-2018.png)
+![Nested-2017](images/Nested-2017.png)
+![Nested-2018](images/Nested-2018.png)
 
 Below are the resulting times for the refactored code for the years 2017 and 2018 (from left to right). The time has decreased from roughly 0.5 to 0.1 seconds. A change in 0.4 seconds may seem trivial, but this difference could be vital in a larger dataset. Since only single for-loops were implemented in this code, the time complexity is O(n), meaning the time increases linearly with the size of the dataset. As a result, adhering to single for-loops has significantly increased the efficiency and versatility of the code.
 
-![VBA_Challenge_2017](VBA_Challenge_2017.png)
-![VBA_Challenge_2018](VBA_Challenge_2018.png)
+![VBA_Challenge_2017](images/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](images/VBA_Challenge_2018.png)
 
 ## Summary
 
